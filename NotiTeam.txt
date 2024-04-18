@@ -1,0 +1,15 @@
+Nombre del website: NotiTeam
+
+Características principales de NotiTeam:
+
+Integración de gestión de proyectos: NotiTeam permite integrar Notion con herramientas de gestión de proyectos como Trello, Asana o Jira. Los usuarios pueden sincronizar proyectos y tareas entre Notion y la herramienta de gestión de proyectos elegida, lo que les permite visualizar y actualizar el progreso de los proyectos directamente desde Notion. Los cambios realizados en una plataforma se reflejarán automáticamente en la otra, manteniendo a todos los miembros del equipo actualizados.
+
+Comunicación en tiempo real: NotiTeam ofrece una integración con herramientas de comunicación en tiempo real como Slack o Microsoft Teams. Los usuarios pueden crear canales o hilos de conversación específicos para proyectos dentro de Notion y recibir notificaciones de actualizaciones o mensajes importantes directamente en la interfaz de Notion. Esto ayuda a mantener a todo el equipo informado y facilita la comunicación fluida sin tener que cambiar constantemente entre aplicaciones.
+
+Asignación de tareas y seguimiento: NotiTeam permite asignar tareas a miembros del equipo directamente desde Notion, utilizando etiquetas o menciones para notificar a las personas responsables. Los usuarios pueden establecer fechas límite, prioridades y agregar descripciones detalladas a las tareas. Además, la integración con la herramienta de gestión de proyectos elegida permite realizar un seguimiento del avance de las tareas y visualizarlo en el contexto del proyecto general.
+
+Comentarios y revisiones colaborativas: NotiTeam facilita los comentarios y revisiones colaborativas en documentos y proyectos dentro de Notion. Los usuarios pueden agregar comentarios directamente en los documentos o secciones relevantes, lo que permite una comunicación contextualizada y evita la dispersión de información en múltiples plataformas. Los miembros del equipo pueden colaborar en tiempo real, responder a los comentarios y realizar cambios directamente en Notion.
+
+Informes y análisis de proyectos: NotiTeam proporciona informes y análisis de proyectos dentro de Notion. Los usuarios pueden generar informes personalizados sobre el progreso del proyecto, el tiempo dedicado a las tareas, el rendimiento del equipo, entre otros aspectos relevantes. Estos informes se pueden compartir y exportar para una mejor visualización y análisis.
+
+NotiTeam combina la potencia de Notion con herramientas de gestión de proyectos y comunicación populares, creando un entorno de colaboración unificado y eficiente. Facilita el seguimiento de proyectos, la asignación de tareas, la comunicación en tiempo real y la generación de informes dentro de Notion, eliminando la necesidad de cambiar entre múltiples aplicaciones y mejorando la productividad del equipo.
