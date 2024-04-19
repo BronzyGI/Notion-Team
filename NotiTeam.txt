@@ -1,12 +1,29 @@
-NotiTeam
+Nombre del Proyecto: NotiTeam
 
+
+Integrantes:
+Jose Luis Gress Ibarra
+Victor Jesus Gonzalez Valencia 
+María Guadalupe Rodríguez
+Lilian Mayrin Barrera Sanchez
+Samuel Giovanny Rodríguez  Rivera
+ 
 Descripción: 
-NotiTeam es una página web responsiva que amplía las capacidades de colaboración de Notion al integrarla con herramientas de gestión de proyectos y comunicación populares. Su objetivo es facilitar la colaboración efectiva y el seguimiento de proyectos en equipo dentro de Notion.
+Este caso de uso propone desarrollar una  página web utilizando la API de Notion para ampliar las capacidades de colaboración de Notion al integrar con herramientas de gestión de proyectos y comunicación populares. 
 
-Características principales de NotiTeam:
+Objetivos del proyecto: Facilitar la colaboración efectiva y el seguimiento de proyectos en equipo dentro de Notion.
 
+Funcionalidades de NotiTeam
 Comunicación en tiempo real: NotiTeam ofrece una integración con herramientas de comunicación en tiempo real como Slack. Los usuarios pueden crear canales o hilos de conversación específicos para proyectos dentro de Notion y recibir notificaciones de actualizaciones o mensajes importantes directamente en la interfaz de Notion. Esto ayuda a mantener a todo el equipo informado y facilita la comunicación fluida sin tener que cambiar constantemente entre aplicaciones.
 
 Asignación de tareas y seguimiento: NotiTeam permite asignar tareas a miembros del equipo directamente desde Notion, utilizando calendarización para notificar a las personas responsables. Los usuarios pueden establecer fechas límite, prioridades y agregar descripciones detalladas a las tareas. Además, la integración con la herramienta de gestión de proyectos elegida permite realizar un seguimiento del avance de las tareas y visualizarlo en el contexto del proyecto general.
 
 NotiTeam tiene como objetivo  combinar la potencia de Notion con herramientas de gestión de proyectos y comunicación populares, creando un entorno de colaboración unificado y eficiente. 
+ Tecnologías:
+Javascript
+HTML
+API Notion
+Integraciones:
+Slack
+Trello
+
