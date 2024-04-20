@@ -1,29 +1,36 @@
-Nombre del Proyecto: NotiTeam
+## Proyecto: NotiTeam
 
+### Integrantes:
 
-Integrantes:
-Jose Luis Gress Ibarra
-Victor Jesus Gonzalez Valencia 
-María Guadalupe Rodríguez
-Lilian Mayrin Barrera Sanchez
-Samuel Giovanny Rodríguez  Rivera
- 
-Descripción: 
-Este caso de uso propone desarrollar una  página web utilizando la API de Notion para ampliar las capacidades de colaboración de Notion al integrar con herramientas de gestión de proyectos y comunicación populares. 
+- Lilian Mayrin Barrera Sanchez
+- Victor Jesus Gonzalez Valencia
+- Jose Luis Gress Ibarra
+- María Guadalupe Rodríguez
+- Giovanny Samuel Rodríguez Rivera
 
-Objetivos del proyecto: Facilitar la colaboración efectiva y el seguimiento de proyectos en equipo dentro de Notion.
+### Descripción:
 
-Funcionalidades de NotiTeam
-Comunicación en tiempo real: NotiTeam ofrece una integración con herramientas de comunicación en tiempo real como Slack. Los usuarios pueden crear canales o hilos de conversación específicos para proyectos dentro de Notion y recibir notificaciones de actualizaciones o mensajes importantes directamente en la interfaz de Notion. Esto ayuda a mantener a todo el equipo informado y facilita la comunicación fluida sin tener que cambiar constantemente entre aplicaciones.
+El proyecto **NotiTeam** consiste en la creación de un chat integrado con WhatsApp y Notion. Este chat filtrará la información y la almacenará en una base de datos dentro de Notion, facilitando la discusión, la asignación de tareas y el seguimiento a través de la calendarización del progreso del equipo, todo desde un solo mensaje en WhatsApp.
 
-Asignación de tareas y seguimiento: NotiTeam permite asignar tareas a miembros del equipo directamente desde Notion, utilizando calendarización para notificar a las personas responsables. Los usuarios pueden establecer fechas límite, prioridades y agregar descripciones detalladas a las tareas. Además, la integración con la herramienta de gestión de proyectos elegida permite realizar un seguimiento del avance de las tareas y visualizarlo en el contexto del proyecto general.
+### Objetivos:
 
-NotiTeam tiene como objetivo  combinar la potencia de Notion con herramientas de gestión de proyectos y comunicación populares, creando un entorno de colaboración unificado y eficiente. 
- Tecnologías:
-Javascript
-HTML
-API Notion
-Integraciones:
-Slack
-Trello
+- Facilitar la comunicación y colaboración entre los miembros del equipo dentro de Notion.
+- Mejorar la eficiencia en la gestión de proyectos y tareas al integrar inteligencia artificial.
+- Filtrar los datos más importantes para automatizar acciones dentro de Notion.
 
+### Funcionalidades:
+
+- **Notificaciones:** Informar a los usuarios sobre nuevas asignaciones y tareas en el espacio de trabajo.
+- **Guardado automático de roles, fechas, responsables, etc.:** Permite crear una asignación de tarea y/o trabajo con fecha límite de entrega para un miembro del equipo en Notion con solo un mensaje en WhatsApp.
+- **Menciones y etiquetas:** Permitir a los usuarios mencionar a otros miembros del equipo en los mensajes y etiquetar mensajes relevantes.
+- **Integración del calendario:** Permitir la calendarización de eventos y asignaciones de tareas ocupando Notion.
+
+### Tecnologías:
+
+- Notion
+- Hints (IA)
+- WhatsApp
+
+### Integraciones:
+
+- **WhatsApp:** Utiliza la IA de Hints para filtrar mensajes de WhatsApp para la asignación de roles, tareas, fechas, etc. Esto permite interactuar con la plataforma de Notion y realizar operaciones automáticas como la creación de proyectos, asignación de tareas y calendarización con solo un mensaje desde WhatsApp.
